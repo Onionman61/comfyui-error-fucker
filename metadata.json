@@ -1,0 +1,5 @@
+{
+  "name": "ComfyUI 错误侦探",
+  "description": "An intelligent application that analyzes ComfyUI error logs using Gemini to identify the root cause and provide clear, actionable solutions. Paste your error log and get expert-level diagnostics in seconds.",
+  "requestFramePermissions": []
+}
